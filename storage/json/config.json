@@ -1,0 +1,4 @@
+{
+    "mode_auth": "document_number",
+    "type":"digits_between:4,10"
+}
